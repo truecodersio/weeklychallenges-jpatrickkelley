@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
+    "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+    "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectUniqueName": "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+        "projectPath": "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
         "packagesPath": "C:\\Users\\jpatr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\obj\\",
+        "outputPath": "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

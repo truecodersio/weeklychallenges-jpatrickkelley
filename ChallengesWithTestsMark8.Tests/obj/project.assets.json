@@ -5862,11 +5862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
       "projectName": "ChallengesWithTestsMark8.Tests",
-      "projectPath": "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+      "projectPath": "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
       "packagesPath": "C:\\Users\\jpatr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8.Tests\\obj\\",
+      "outputPath": "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5887,8 +5887,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
-              "projectPath": "C:\\Users\\jpatr\\OneDrive\\Desktop\\REPOS\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
+            "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+              "projectPath": "C:\\Users\\jpatr\\source\\repos\\weeklychallenges-jpatrickkelley\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
             }
           }
         }
