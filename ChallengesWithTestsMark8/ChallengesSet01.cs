@@ -15,16 +15,12 @@ namespace ChallengesWithTestsMark8
         {
             double a = (minuend - subtrahend);
             return a;
-
-
         }
 
         public int Add(int number1, int number2)
         {
             int a = (number1 + number2);
             return a;
-
-
 
         }
 
@@ -44,11 +40,6 @@ namespace ChallengesWithTestsMark8
         }
                 
         
-        
-
-
-
-
         public long Multiply(long factor1, long factor2)
         {
             return factor1 * factor2;

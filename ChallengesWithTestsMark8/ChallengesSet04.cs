@@ -6,12 +6,32 @@ namespace ChallengesWithTestsMark8
     {
         public int AddEvenSubtractOdd(int[] numbers)
         {
-            throw new NotImplementedException();
+            int even = 0;
+            int odd = 0;
+            int sum = 0;
+
+            foreach (int num in numbers)
+            {
+                if (num % 2 == 0)
+                {
+                    even += num;
+                }
+                else
+                {
+                    odd += num;
+                }
+                 sum = even - odd;
+                
+            }
+            return sum;
+
         }
 
         public int GetLengthOfShortestString(string str1, string str2, string str3, string str4)
         {
-            throw new NotImplementedException();
+             int [] myString = { str1.Length, str2.Length, str3.Length, str4.Length };
+             Array.Sort(myString);
+             return myString[0];
         }
 
         public int GetSmallestNumber(int number1, int number2, int number3, int number4)
