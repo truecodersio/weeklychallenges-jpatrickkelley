@@ -14,7 +14,7 @@ namespace ChallengesWithTestsMark8
 
             for (int i = 0; i < vals.Length; i++)
             {
-                if (vals[i] == false)                      // whats wrong here?
+                if (vals[i] == false)                    
                 {
                     return true;
                 }
