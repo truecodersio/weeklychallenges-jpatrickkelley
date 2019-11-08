@@ -49,9 +49,7 @@ namespace ChallengesWithTestsMark8
 
         public bool CouldFormTriangle(int sideLength1, int sideLength2, int sideLength3)
         {
-
-
-            return
+           return
 
                 (
 
@@ -127,12 +125,9 @@ namespace ChallengesWithTestsMark8
             {
                 fact *= i;
 
-
-
                 if (number < 0)
                 {
                     throw new IndexOutOfRangeException();
-
                 }
             }
             return fact;

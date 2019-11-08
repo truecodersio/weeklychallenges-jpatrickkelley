@@ -48,7 +48,6 @@ C:\Users\jpatr\source\repos\weeklychallenges-jpatrickkelley\ChallengesWithTestsM
 C:\Users\jpatr\source\repos\weeklychallenges-jpatrickkelley\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\jpatr\source\repos\weeklychallenges-jpatrickkelley\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
 C:\Users\jpatr\source\repos\weeklychallenges-jpatrickkelley\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
-C:\Users\jpatr\source\repos\weeklychallenges-jpatrickkelley\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
 C:\Users\jpatr\source\repos\weeklychallenges-jpatrickkelley\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
 C:\Users\jpatr\source\repos\weeklychallenges-jpatrickkelley\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
 C:\Users\jpatr\source\repos\weeklychallenges-jpatrickkelley\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
